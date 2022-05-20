@@ -1,3 +1,9 @@
+## 4.0.1
+
+### FEATURES
+
+- Fake version of 4.0.1 to test forward OTA updates
+
 ## 3.3.0
 
 ### FEATURES
