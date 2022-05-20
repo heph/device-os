@@ -1,3 +1,9 @@
+## 4.0.2
+
+### FEATURES
+
+- Fake version of 4.0.2 (with bootloader bump) to test forward OTA updates
+
 ## 3.3.0
 
 ### FEATURES
